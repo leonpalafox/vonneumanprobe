@@ -1,0 +1,18 @@
+{
+  "name": "vonneumann-explorer",
+  "version": "0.1.0",
+  "description": "A peaceful exploration game about exponential growth",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pixi.js": "^8.0.0",
+    "miniplex": "^2.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
